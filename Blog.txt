@@ -1,0 +1,10 @@
+ Blog:Mongodb
+
+PKZEly8A5uXPFcLS
+
+mongodb+srv://Blog:<password>@cluster0.nrcplht.mongodb.net/?retryWrites=true&w=majority
+
+yarn start
+
+nodemon index.js
+
